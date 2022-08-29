@@ -17,6 +17,7 @@ namespace Abdullah
         protected void Button1_Click(object sender, EventArgs e)
         {
             Response.Redirect("sayfa2.aspx");
+            Response.Redirect("sayfa2.aspx");
 
         }
     }
